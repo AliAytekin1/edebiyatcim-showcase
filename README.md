@@ -86,8 +86,33 @@ The application is actively maintained and its educational content, interface, g
 
 ## Screenshots
 
-Application screenshots and promotional visuals will be added to this repository.
+### Home and Structured Lessons
 
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="Edebiyatcim home screen" width="45%">
+  <img src="assets/screenshots/lessons.png" alt="Structured literature lessons" width="45%">
+</p>
+
+### Interactive Word Search
+
+<p align="center">
+  <img src="assets/screenshots/word-search1.png" alt="Literature word search topics" width="45%">
+  <img src="assets/screenshots/word-search2.png" alt="Interactive word search game" width="45%">
+</p>
+
+### YKS-Style Practice Questions
+
+<p align="center">
+  <img src="assets/screenshots/questions1.png" alt="YKS-style question topics" width="45%">
+  <img src="assets/screenshots/questions2.png" alt="Literature practice question" width="45%">
+</p>
+
+### Authors and Literary Works
+
+<p align="center">
+  <img src="assets/screenshots/authors.png" alt="Important Turkish literature authors" width="45%">
+  <img src="assets/screenshots/works.png" alt="Major literary works" width="45%">
+</p>
 ## Developer
 
 **Ali Aytekin**
